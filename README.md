@@ -1,4 +1,4 @@
-Peace! My name is Davon Blanks, and I am an upcoming Software Engineer. 
+Peace! My name is Davon Blanks, and I am an upcoming Software Engineer. Outside of my tech pursuits, I like to bike, go to used Bookstores and finding hidden gems, and attending to comedy stand-up shows. 
 
 <!--
 **davonbl/davonbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
