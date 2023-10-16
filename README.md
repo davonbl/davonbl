@@ -1,4 +1,6 @@
-Peace! I'm Davon, and I like to code, go bike, and I like to browse through used bookstores and find hidden gems. 
+Peace  :sunny:
+
+I'm Davon, and I like to code, go bike, and I like to browse through used bookstores and find hidden gems. 
 
 
 
@@ -6,7 +8,7 @@ Peace! I'm Davon, and I like to code, go bike, and I like to browse through used
 - Learn more at [davonbl.github.io](https://davonbl.github.io/) 
 - Email me at davonbl@gmail.com
 
-### Coding Status 
+<!-- ### Coding Status  -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
