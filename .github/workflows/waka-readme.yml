@@ -17,3 +17,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIME: true
           SHOW_TOTAL: true
+          CODE_LANG: javascript, html, css
+          TIME_RANGE: all_time
+          LANG_COUNT: 10
