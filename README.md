@@ -1,6 +1,6 @@
 Peace  :sunny:
 
-I'm Davon and I like to code, go biking, and browse through used bookstores and find hidden gems. 
+I'm Davon and I like to code, go biking, and browse through used bookstores to find hidden gems. 
 
 
 
