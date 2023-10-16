@@ -8,7 +8,6 @@ Peace! I'm Davon, and I like to code, go bike, and I like to browse through used
 
 #### Coding Status 
 
-📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
