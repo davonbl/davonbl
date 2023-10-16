@@ -3,7 +3,7 @@ Peace! I'm Davon, and I like to code, go bike, and I like to browse through used
 
 
 - Currently accepting clients, and job opportunities.
-- Learn more at [https://davonbl.github.io](https://davonbl.github.io) 
+- Learn more at [davonbl.github.io](https://davonbl.github.io) 
 - Email me at davonbl@gmail.com
 
 <!--START_SECTION:waka-->
