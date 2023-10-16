@@ -6,9 +6,14 @@ Peace! I'm Davon, and I like to code, go bike, and I like to browse through used
 - Learn more at [davonbl.github.io](https://davonbl.github.io/) 
 - Email me at davonbl@gmail.com
 
+#### Coding Status 
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+
 
 <!--
 
