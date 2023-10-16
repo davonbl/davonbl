@@ -3,7 +3,7 @@ Peace! I'm Davon, and I like to code, go bike, and I like to browse through used
 
 
 - Currently accepting clients, and job oppournties.
-- Learn more at [davonbl.github.io](https://davonbl.github.io)
+- Learn more at < a href = 'https://davonbl.github.io' target="_blank">davonbl.github.io </a>
 - Email me at davonbl@gmail.com
 
 <!--START_SECTION:waka-->
@@ -11,6 +11,7 @@ Peace! I'm Davon, and I like to code, go bike, and I like to browse through used
 
 <!--END_SECTION:waka-->
 <!--
+[davonbl.github.io](https://davonbl.github.io)
 Here is my <a href = 'davonbl.github.io'>website</a> for more info.
 **davonbl/davonbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
