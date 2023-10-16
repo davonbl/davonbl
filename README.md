@@ -8,9 +8,8 @@ Peace! I'm Davon, and I like to code, go bike, and I like to browse through used
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
+
 <!--
 
 <a href = 'https://davonbl.github.io' target='_blank' rel='noopener noreferrer'>davonbl.github.io </a>
