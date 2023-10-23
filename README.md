@@ -37,7 +37,7 @@ TSConfig         23 mins         █▒░░░░░░░░░░░░░�
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js, html, css, sass, nodejs, express, git, prisma, postgres, graphql, apollo, postman, vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,express,git,prisma,postgres,graphql,apollo,postman,vscode&theme=light)](https://skillicons.dev)
 
 
 
