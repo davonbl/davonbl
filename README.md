@@ -25,6 +25,7 @@ TSConfig         23 mins         █▒░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
+<!--
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
@@ -32,7 +33,11 @@ TSConfig         23 mins         █▒░░░░░░░░░░░░░�
 
 <p align="left"> 
 
+-->
 
+## Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js, html, css, sass, nodejs, express, git, prisma, postgres, graphql, apollo, postman, vscode&theme=light)](https://skillicons.dev)
 
 
 
