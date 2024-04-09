@@ -5,7 +5,7 @@ I'm Davon and I like to code, go biking, and browse through used bookstores to f
 
 
 - Currently accepting clients, and job opportunities.
-- Learn more at [davonbl.github.io](https://davonbl.github.io/) 
+- Learn more at [davonbl.netlify.app](https://davonbl.netlify.app/) 
 - Email me at davonbl@gmail.com
 
 <!-- ### Coding Status  -->
