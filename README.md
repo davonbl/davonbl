@@ -13,13 +13,13 @@ I'm Davon and I like to code, go biking, and browse through used bookstores to f
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 40 mins
+Total Time: 4 hrs 38 mins
 
-Docker       2 hrs 19 mins   ████████████▒░░░░░░░░░░░░   49.14 %
-JavaScript   1 hr 15 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-YAML         44 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Docker       2 hrs 19 mins   ████████████▒░░░░░░░░░░░░   49.46 %
+JavaScript   1 hr 13 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
+YAML         44 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+Markdown     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
