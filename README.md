@@ -13,13 +13,9 @@ I'm Davon and I like to code, go biking, and browse through used bookstores to f
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 55 mins
+Total Time: 0 secs
 
-TypeScript   39 mins         ████████▓░░░░░░░░░░░░░░░░   34.10 %
-YAML         35 mins         ███████▓░░░░░░░░░░░░░░░░░   30.74 %
-Markdown     32 mins         ███████░░░░░░░░░░░░░░░░░░   28.15 %
-Prisma       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
