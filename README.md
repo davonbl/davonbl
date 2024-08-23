@@ -15,7 +15,7 @@ I'm Davon and I like to code, go biking, and browse through used bookstores to f
 ```txt
 Total Time: 0 secs
 
-JavaScript   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
