@@ -38,7 +38,7 @@ Other         0 secs          ░░░░░░░░░░░░░░░░�
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,express,git,prisma,postgres,graphql,apollo,postman,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,sass,nodejs,express,git,prisma,postgres,vercel,tailwind,sequelize,postman,vscode&theme=light&perline=4" />
     </a>
 </p>
 
