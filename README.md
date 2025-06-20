@@ -13,9 +13,9 @@ I'm Davon and I like to code, go biking, and browse through used bookstores to f
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 3 mins
+Total Time: 6 hrs 49 mins
 
-JavaScript   7 hrs 3 mins    █████████████████████████   100.00 %
+JavaScript   6 hrs 49 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
