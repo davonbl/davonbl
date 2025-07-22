@@ -13,11 +13,11 @@ I'm Davon and I like to code, go biking, and browse through used bookstores to f
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 57 mins
+Total Time: 24 hrs 55 mins
 
-JavaScript   19 hrs 56 mins  █████████████████████████   99.73 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   24 hrs 54 mins  █████████████████████████   99.78 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
